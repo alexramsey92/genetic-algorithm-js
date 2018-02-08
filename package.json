@@ -1,0 +1,12 @@
+{
+  "name": "gatest",
+  "version": "1.0.0",
+  "description": "Genetic Algorithm testing in JS",
+  "main": "index.js",
+  "scripts": {
+     "start": "node index.js",
+     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Al Ramsey",
+  "license": "ISC"
+}
