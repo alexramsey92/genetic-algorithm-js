@@ -1,8 +1,8 @@
 # Genetic Algorithm Example in JavaScript/Node
 by Al Ramsey
-With help from http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3
+With help from "[Creating a genetic algorithm for beginners](http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3)"
 ### For SWEN, Git tutorial
-
+```
 git
 
 git status
@@ -42,6 +42,7 @@ git add .
 git commit -m 'GA-04 Fixed readme headers because I made a mistake'
 
 git push
+```
 
 ### Initialization - Create a Population
 
